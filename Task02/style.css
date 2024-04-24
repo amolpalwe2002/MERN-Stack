@@ -1,0 +1,38 @@
+body{
+    background-color: orange;
+    color: black;
+}
+
+.head{
+    color: blue;
+}
+
+#bglime{
+    background-color: lime;
+    
+}
+
+#bglime span{
+    color: red;
+}
+
+p{
+    color: white;
+}
+
+#para{
+    color: green;
+}
+
+#para span{
+    color: black;
+    font-size: 20px;
+}
+
+ul li span{
+    background-color: red;
+}
+
+li + li span{
+    background-color: blueviolet;
+}

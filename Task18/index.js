@@ -1,0 +1,7 @@
+function doSomething(){
+
+}
+
+const doSomething = () => {
+
+}

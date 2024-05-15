@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+
+#greet{
+    background-color: rgb(198, 198, 198);
+    font-size: 50px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.colorContainer{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    font-size: x-large;
+}
+
+.input{
+    margin-top: 20px;
+}
+
+#input{
+    width: 300px;
+}
+
+#btn{
+    width: 100px;
+    padding: 5px;
+    cursor: pointer;
+}
+

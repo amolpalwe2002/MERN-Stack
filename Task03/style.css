@@ -6,20 +6,27 @@
 }
 
 .image{
-    border: 2px solid black;
-    width: 500px;
-    margin: 5% 30%;
+    width: 100vw;
+    text-align: center;
+    padding: 10% 25% ;
 }
 
-img{
-    width: 100%;
+
+.img{
+    width: 50vw;
 }
 
-button{
-    width: 100%;
+.btn{
+    width: 50vw;
     background-image: linear-gradient(to right,orange, green);
     font-size: 1.5rem;
     color: white;
-    padding: 15px 0px;
+    padding: 0.5em 0;
     cursor: pointer;
+    border: none;
+    border-radius: 0.3em;
+}
+
+.btn:hover{
+    font-weight: bolder;
 }
